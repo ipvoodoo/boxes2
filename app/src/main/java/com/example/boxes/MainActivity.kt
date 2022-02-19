@@ -39,5 +39,6 @@ fun Greeting(name: String) {
 fun DefaultPreview() {
     BoxesTheme {
         Greeting("Android")
+        /// todo хуй
     }
 }
